@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="GasWater" size="450.000000 171.417465" />
+    <ImageTarget name="liquidWater" size="450.000000 171.417465" />
+    <ImageTarget name="LiquidAluminum" size="500.000000 381.884247" />
+    <ImageTarget name="SolidAluminum" size="500.000000 382.385742" />
+    <ImageTarget name="GasAluminum" size="500.000000 382.172699" />
+    <ImageTarget name="SolidWater" size="100.000000 38.196423" />
+    <ImageTarget name="water" size="100.000000 50.812305" />
+    <ImageTarget name="Oxygen" size="500.000000 762.837463" />
+    <ImageTarget name="Hydrogen" size="100.000000 152.617661" />
+    <ImageTarget name="Aluminum" size="100.000000 152.569839" />
+  </Tracking>
+</QCARConfig>

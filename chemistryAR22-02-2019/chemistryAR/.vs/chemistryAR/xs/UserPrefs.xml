@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{50123D83-0C58-CFD0-6733-FC384948A069}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/DataFile/Scrpits/MoveScript.cs">
+    <Files>
+      <File FileName="Assets/DataFile/Scrpits/TouchScript.cs" Line="44" Column="40" />
+      <File FileName="Assets/DataFile/Scrpits/MoveScript.cs" Line="43" Column="79" />
+      <File FileName="../test/Assets/Datafiles/Scrpits/TouchObjectScript.cs" Line="29" Column="60" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
